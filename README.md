@@ -1,4 +1,4 @@
-# BrailleToSVG
+# (Italian) BrailleToSVG
 
 Convert text to braille and get an SVG representation. You can also enter Braille characters directly if you already have a (better) translation.
 
