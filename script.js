@@ -1,5 +1,5 @@
 //*Constants
-const scale = 4;
+const scale = 3.6;
 const dotSpacing = 2.4 * scale;
 const letterSpacing = 6.4 * scale;
 const dotSize = 0.8 * scale;
